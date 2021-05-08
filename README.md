@@ -1,2 +1,2 @@
 # projeto-sds3
-Semana SpringReact
+Semana Spring React
